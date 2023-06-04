@@ -1,176 +1,176 @@
 model,size,type,deaths,class,interval,MV,SV,roll,model years,exposure
-Mitsubishi Mirage hatchback,1,car4d,72,4door,28-115,52,18,5,2014-17,"171,842"
-Kia Rio,1,car4d,87,4door,40-134,51,38,0,2014-17,"204,326"
-Hyundai Accent,1,car4d,116,4door,74-158,85,28,9,2014-17,"417,171"
-Ford Fiesta,1,car4d,141,4door,94-189,98,46,13,2014-17,"357,492"
-Volkswagen Golf,2,car4d,0,4door,0-34,0,0,0,2014-17,"108,084"
-Nissan Leaf,2,car4d,5,4door,0-14,0,5,0,2015-17,"164,259"
-Volkswagen GTI,2,car4d,11,4door,0-27,11,0,0,2014-17,"137,682"
-Nissan Juke 2WD,2,car4d,12,4door,0-29,6,6,6,2014-17,"126,805"
-Acura ILX,2,car4d,26,4door,0-56,20,5,0,2014-17,"162,116"
-Mazda 3 hatchback,2,car4d,27,4door,7-46,12,16,2,2014-17,"348,619"
-Mitsubishi Lancer 2WD,2,car4d,31,4door,3-58,25,6,0,2014-17,"124,110"
-Mazda 3 sedan,2,car4d,39,4door,22-55,27,13,1,2014-17,"602,393"
-Hyundai Elantra GT,2,car4d,44,4door,7-82,19,27,0,2016-17,"174,343"
-Honda Civic,2,car4d,46,4door,29-62,30,15,4,2016-17,"912,043"
-Chevrolet Cruze,2,car4d,49,4door,24-75,35,13,5,2017,"351,592"
-Tovota Corolla,2,car4d,54,4door,27-81,40,15,3,2015-17,"309,773"
-Subaru WRX,2,car4d,54,4door,25-83,31,24,4,2014-17,"196,935"
-Nissan Juke 4WD,2,car4d,65,4door,2-127,22,48,0,2014-17,"115,704"
-Ford Focus,2,car4d,68,4door,52-84,48,19,9,2014-17,"1,329,370"
-Nissan Sentra,2,car4d,81,4door,65-96,53,26,11,2014-17,"1,950,927"
-Nissan Versa,2,car4d,88,4door,66-111,49,42,14,2017,"828,218"
-Hyundai Elantra,2,car4d,89,4door,44-133,71,15,9,2014-17,"267,872"
-Kia Forte,2,car4d,89,4door,64-114,63,24,2,2014-17,"778,579"
-Chevrolet Sonic,2,car4d,98,4door,64-132,64,34,10,2015-17,"418,163"
-Subaru Legacy,3,car4d,14,4door,3-25,9,5,2,2014-17,"329,025"
-Ford Fusion plug-in hybrid,3,car4d,15,4door,0-36,0,15,0,2014-17,"100,620"
-Ford Fusion 4WD,3,car4d,22,4door,0-45,11,11,0,2014-17,"135,342"
-Ford Fusion hybrid 2WD,3,car4d,34,4door,10-58,28,5,6,2014-17,"294,573"
-Tovota Camry,3,car4d,34,4door,28-41,23,11,4,2014-17,"3,622,339"
-Honda Accord,3,car4d,34,4door,26-41,24,9,3,2016-17,"3,203,032"
-Kia Optima,3,car4d,37,4door,15-58,15,23,10,2014-17,"302,125"
-Ford Fusion 2WD,3,car4d,39,4door,30-49,29,10,3,2014-17,"2,181,340"
-Toyota Camry hybrid,3,car4d,41,4door,16-66,35,5,0,2014-17,"298,667"
-Mazda 6 2WD,3,car4d,41,4door,22-61,24,18,4,2015-17,"569,238"
-Hyundai Sonata,3,car4d,48,4door,34-62,25,23,8,2015-17,"1,151,787"
-Chrysler 200 2WD,3,car4d,52,4door,34-69,21,32,3,2014-17,"784,265"
-Volkswagen Jetta,3,car4d,53,4door,38-67,34,19,4,2014-17,"1,298,283"
-Nissan Altima,3,car4d,59,4door,49-68,37,21,5,2016-17,"3,228,915"
-Chevrolet Malibu,3,car4d,61,4door,34-87,36,24,13,2014-17,"479,411"
-Buick Verano,3,car4d,68,4door,34-102,35,33,14,2016-17,"332,522"
-Nissan Maxima,3,car4d,68,4door,27-109,,,,,"226,899"
-Chrysler 300 4WD,4,car4d,14,4door,0-31,10,5,0,2014-17,"158,207"
-Dodge Charger 4WD,4,car4d,28,4door,0-56,14,14,0,2014-17,"107,515"
-Chrysler 300 2WD,4,car4d,46,4door,24-69,32,14,7,2014-17,"337,115"
-Buick Regal 2WD,4,car4d,50,4door,14-86,24,29,24,2014-17,"161,880"
-Chevrolet Impala,4,car4d,57,4door,39-75,39,16,9,2014-17,"905,014"
-Dodge Charger Hemi 2WD,4,car4d,58,4door,21-95,17,43,8,2014-17,"199,434"
-Dodge Charger 2WD,4,car4d,62,4door,41-84,27,39,13,2014-17,"607,436"
-MINI Cooper,1,car2d,10,,0-24,10,0,0,2014-17,"149,663"
-Fiat 500,1,car2d,95,,25-165,60,38,37,2014-17,"123,127"
-Volkswagen Beetle,2,car2d,11,,0-28,6,6,6,2014-17,"132,929"
-Hvundai Veloster,2,car2d,63,,10-116,39,25,19,2014-17,"123,455"
-Honda Accord,3,car2d,48,,14-82,18,30,0,2014-17,"235,384"
-Dodge Challenger 2WD,4,car2d,65,,42-87,34,30,12,2014-17,"521,293"
-Ford Mustang coupe,3,car_sports,45,,20-70,42,3,0,2015-17,"279,661"
-Chevrolet Corvette coupe,3,car_sports,54,,20-87,4,53,13,2014-17,"192,396"
-Ford Mustang GT coupe,3,car_sports,81,,43-119,58,23,12,2015-17,"202,978"
-Chevrolet Camaro coupe,4,car_sports,39,,10-69,6,35,18,2016-17,"134,504"
-Mercedes-Benz C-Class sedan 4WD,3,car_lux,0,,0-15,0,0,0,,"254,085"
-Lexus CT 200h,3,car_lux,6,,0-19,6,0,0,,"118,081"
-Acura TLX 2WD,3,car_lux,21,,0-42,13,10,0,,"240,896"
-Mercedes-Benz C-Class sedan 2WD,3,car_lux,28,,0-56,10,17,9,,"179,762"
-Cadillac ATS 2WD,3,car_lux,31,,6-56,21,11,6,,"146,586"
-Infiniti Q50 4WD BMW 320i 2WD,3,car_lux,39,,8-70,0,39,11,,"218,675"
-BMW 320i 2WD,3,car_lux,42,,4-80,17,29,0,,"137,322"
-Lincoln MKZ 2WD,3,car_lux,55,,5-106,32,25,6,,"126,721"
-Infiniti 050 2WD,3,car_lux,60,,31-90,18,44,19,,"213,505"
-Audi A6 4WD,4,car_lux,16,,0-33,4,13,9,,"184,986"
-Cadillac XTS 2WD,5,car_lux,21,,0-41,21,0,0,,"147,596"
-Honda Fit,1,wagon,48,,23-73,31,17,4,,"412,993"
-Ford Fiesta,1,wagon,65,,33-97,58,5,0,,"289,093"
-Hyundai Accent,1,wagon,81,,41-121,64,17,9,,"184,081"
-Subaru XV Crosstrek,2,wagon,18,,7-28,10,8,2,,"769,213"
-Toyota Prius v,2,wagon,19,,3-34,19,0,0,,"244,190"
-Fiat 500L,2,wagon,24,,0-62,24,0,0,,"112,469"
-Ford C-Max hybrid,2,wagon,37,,0-78,37,0,0,,"115,963"
-Ford Focus,2,wagon,60,,42-78,34,26,6,,"841,734"
-Kia Soul,2,wagon,70,,52-87,50,19,10,,"1,346,860"
-Chevrolet Sonic,2,wagon,74,,36-111,59,13,13,,"244,549"
-Nissan Versa Note,2,wagon,96,,65-127,80,12,7,,"600,256"
-Subaru Outback,3,wagon,3,,0-6,2,1,0,,"769,921"
-Toyota Sienna 4WD,5,minivan,7,,0-18,4,4,0,,"206,725"
-Honda Odvssev,5,minivan,8,,2-14,4,5,2,,"1,289,578"
-Tovota Sienna 2WD,5,minivan,20,,10-31,16,4,2,,"1,067,897"
-Kia Sedona,5,minivan,21,,4-38,7,14,11,,"215,030"
-Chrysler Pacifica,5,minivan,27,,0-58,21,5,0,,"156,682"
-Dodge Grand Caravan,5,minivan,41,,28-54,26,15,5,,"1,226,909"
-Mitsubishi Outlander 4WD,2,suv,7,,0-22,7,0,0,,"101,350"
-Honda HR-V 4WD,2,suv,9,,0-21,0,9,5,,"177,447"
-Tovota RAV4 4WD,2,suv,10,,0-30,10,0,0,,"197,926"
-Nissan Rogue 4WD,2,suv,13,,7-20,9,5,3,,"1,202,111"
-Jeep Renegade 2WD,2,suv,13,,0-27,8,4,0,,"180,718"
-Subaru Forester,2,suv,17,,10-24,9,9,2,,"1,477,741"
-Hyundai Tucson 4WD,2,suv,18,,0-47,12,5,0,,"148,722"
-Honda CR-V 2WD,2,suv,18,,0-54,18,0,0,,"110,439"
-Ford Escape 4WD,2,suv,24,,15-33,16,7,4,,"1,351,272"
-Volkswagen Tiguan 2WD,2,suv,24,,3-46,10,15,5,,"156,404"
-Honda CR-V 4WD,2,suv,25,,0-50,20,4,0,,"202,094"
-Jeep Renegade 4WD,2,suv,26,,4-48,22,2,2,,"341,425"
-Toyota RAV4 2WD,2,suv,28,,0-59,28,0,0,,"153,216"
-Volkswagen Tiguan 4WD,2,suv,29,,0-62,16,16,0,,"145,607"
-Ford Escape 2WD,2,suv,29,,20-38,22,6,2,,"1,768,510"
-Jeep Patriot 4WD,2,suv,36,,18-54,24,12,2,,"503,880"
-Jeep Compass 4WD,2,suv,40,,15-64,21,20,8,,"401,789"
-Mitsubishi Outlander Sport 2WD,2,suv,43,,9-77,32,12,12,,"197,002"
-Chevrolet Trax 4WD,2,suv,45,,2-88,15,33,0,,"166,173"
-Jeep Wrangler 2-door 4WD,2,suv,46,,25-68,23,23,20,,"438,061"
-Honda HR-V 2WD,2,suv,50,,4-95,36,11,6,,"140,934"
-Nissan Roque 2WD,2,suv,51,,32-70,38,11,1,,"891,138"
-Jeep Compass 2WD,2,suv,55,,25-85,40,15,0,,"321,269"
-Mitsubishi Outlander 2WD,2,suv,55,,5-104,31,22,15,,"105,863"
-Jeep Patriot 2WD,2,suv,60,,35-85,49,8,5,,"618,728"
-Hyundai Tucson 2WD,2,suv,61,,18-103,37,21,9,,"185,863"
-Mitsubishi Outlander Sport 4WD,2,suv,67,,12-122,45,21,5,,"152,405"
-Chevrolet Trax 2WD,2,suv,73,,32-114,,,,,"233,527"
-Honda Pilot 4WD,3,suv,11,,0-27,11,0,0,2016-17,"354,126"
-Kia Sorento 4WD,3,suv,12,,0-25,4,8,8,2016-17,"192,211"
-Toyota 4Runner 4WD,3,suv,13,,1-25,4,11,7,2014-17,"667,774"
-Toyota Highlander 4WD,3,suv,13,,0-30,0,13,0,2017,"120,591"
-Ford Explorer 4WD,3,suv,13,,2-24,10,3,1,2016-17,"604,755"
-Hyundai Santa Fe 4WD,3,suv,13,,0-31,0,13,7,2014-17,"116,678"
-Jeep Grand Cherokee 4WD,3,suv,16,,10-23,11,6,3,2014-17,"1,901,695"
-Hyundai Santa Fe 2WD,3,suv,16,,0-47,0,16,0,2014-17,"126,743"
-Honda Pilot 2WD,3,suv,17,,0-43,5,15,14,2016-17,"161,750"
-Jeep Grand Cherokee 2WD,3,suv,17,,3-31,11,5,0,2014-17,"465,291"
-GMC Terrain 4WD,3,suv,18,,6-31,12,6,4,2014-17,"369,005"
-Nissan Murano 4WD,3,suv,19,,0-42,19,0,0,2015-17,"251,049"
-Nissan Murano 2WD,3,suv,19,,0-43,19,0,0,2015-17,"184,170"
-Nissan Pathfinder 4WD,3,suv,20,,3-37,7,14,12,2014-17,"450,004"
-Ford Edge 4WD,3,suv,20,,6-33,10,11,5,2015-17,"445,718"
-Jeep Cherokee 4WD,3,suv,20,,10-30,12,7,2,2014-17,"1,233,091"
-Ford Edge 2WD,3,suv,21,,2-41,11,12,0,2015-17,"269,325"
-Dodge Journey 4WD,3,suv,23,,2-44,20,3,0,2014-17,"247,043"
-Nissan Pathfinder 2WD,3,suv,25,,5-45,20,4,2,2014-17,"386,988"
-Jeep Cherokee 2WD,3,suv,26,,12-41,19,8,1,2014-17,"601,120"
-Chevrolet Equinox 4WD,3,suv,29,,15-43,20,9,2,2014-17,"795,787"
-Jeep Wrangler 4-door 4WD,3,suv,31,,21-41,15,17,10,2014-17,"1,480,243"
-Kia Sorento 2WD,3,suv,32,,5-58,12,22,0,2016-17,"244,783"
-GMC Terrain 2WD,3,suv,33,,16-51,22,10,1,2014-17,"595,721"
-Ford Explorer 2WD,3,suv,33,,8-58,21,11,6,2016-17,"279,681"
-Toyota 4Runner 2WD,3,suv,34,,0-67,23,10,0,2014-17,"235,145"
-Ford Flex 2WD,3,suv,38,,0-75,38,0,0,2014-17,"166,244"
-Hyundai Santa Fe Sport 4WD,3,suv,39,,8-69,9,35,15,2014-17,"296,306"
-Chevrolet Equinox 2WD,3,suv,45,,33-57,32,12,6,2014-17,"1,523,947"
-Dodge Journey 2WD,3,suv,45,,25-65,26,19,12,2014-17,"728,704"
-Hyundai Santa Fe Sport 2WD,3,suv,51,,24-78,26,26,15,2014-17,"421,969"
-Dodge Durango 2WD,4,suv,11,,0-28,7,3,3,2014-17,"248,854"
-Dodge Durango 4WD,4,suv,15,,0-30,2,15,9,2014-17,"414,697"
-Ford Expedition 4WD,4,suv,17,,0-36,6,11,6,2014-17,"137,374"
-Chevrolet Tahoe 4WD,4,suv,19,,3-35,12,6,4,2015-17,"412,450"
-Buick Enclave 2WD,4,suv,20,,2-38,15,4,2,2014-17,"349,535"
-Buick Enclave 4WD,4,suv,24,,0-49,24,0,0,2014-17,"254,700"
-GMC Yukon 4WD,4,suv,27,,0-53,14,14,13,2015-17,"232,618"
-Chevrolet Traverse 2WD,4,suv,27,,11-44,16,11,3,2014-17,"636,416"
-Chevrolet Tahoe 2WD,4,suv,28,,5-51,13,17,7,2015-17,"322,663"
-Chevrolet Traverse 4WD,4,suv,29,,9-49,19,9,2,2014-17,"435,946"
-GMC Yukon 2WD,4,suv,40,,0-88,0,40,26,2015-17,"119,156"
-Ford Expedition 2WD,4,suv,55,,5-104,24,29,15,2014-17,"105,353"
-GMC Yukon XL 1500 4WD,5,suv,0,,0-20,0,0,0,2015-17,"186,403"
-Chevrolet Suburban 1500 4WD,5,suv,8,,0-18,8,0,0,2015-17,"278,088"
-Ford Expedition EL 4WD,5,suv,16,,0-47,16,0,0,2014-17,"126,577"
-Chevrolet Suburban 1500 2WD,5,suv,25,,0-57,0,25,0,2015-17,"141,444"
-Land Rover Range Rover Evoque 4WD,2,luxsuv,0,,0-35,0,0,0,2014-17,"104,037"
-Buick Encore 4WD,2,luxsuv,44,,9-79,10,39,24,2014-17,"221,553"
-Buick Encore 2WD,2,luxsuv,46,,20-72,34,11,7,2014-17,"423,729"
-Lexus NX 200t 4WD,3,luxsuv,0,,0-28,0,0,0,2015-17,"133,129"
-Infiniti QX60 2WD,3,luxsuv,0,,0-26,0,0,0,2014-17,"144,301"
-BMW X5 4WD,3,luxsuv,4,,0-11,2,2,0,2014-17,"348,071"
-Acura RDX 2WD,3,luxsuv,4,,0-12,4,0,0,2014-17,"189,668"
-BMW X3 4WD,3,luxsuv,5,,0-11,0,5,5,2014-17,"334,302"
-Infiniti QX60 4WD,3,luxsuv,9,,0-20,0,9,3,2014-17,"243,080"
-Audi Q5 4WD,3,luxsuv,12,,0-24,4,8,4,2014-17,"412,963"
-Acura RDX 4WD,3,luxsuv,12,,0-27,12,0,0,2014-17,"293,285"
-Lexus NX 200t 2WD,3,luxsuv,15,,0-46,0,15,0,2015-17,"130,217"
-Volvo XC60 4WD,3,luxsuv,29,,0-66,0,29,25,2014-17,"122,100"
+Mitsubishi Mirage hatchback,1,car4d,72,4door,28-115,52,18,5,2014-17,171842
+Kia Rio,1,car4d,87,4door,40-134,51,38,0,2014-17,204326
+Hyundai Accent,1,car4d,116,4door,74-158,85,28,9,2014-17,417171
+Ford Fiesta,1,car4d,141,4door,94-189,98,46,13,2014-17,357492
+Volkswagen Golf,2,car4d,0,4door,0-34,0,0,0,2014-17,108084
+Nissan Leaf,2,car4d,5,4door,0-14,0,5,0,2015-17,164259
+Volkswagen GTI,2,car4d,11,4door,0-27,11,0,0,2014-17,137682
+Nissan Juke 2WD,2,car4d,12,4door,0-29,6,6,6,2014-17,126805
+Acura ILX,2,car4d,26,4door,0-56,20,5,0,2014-17,162116
+Mazda 3 hatchback,2,car4d,27,4door,7-46,12,16,2,2014-17,348619
+Mitsubishi Lancer 2WD,2,car4d,31,4door,3-58,25,6,0,2014-17,124110
+Mazda 3 sedan,2,car4d,39,4door,22-55,27,13,1,2014-17,602393
+Hyundai Elantra GT,2,car4d,44,4door,7-82,19,27,0,2016-17,174343
+Honda Civic,2,car4d,46,4door,29-62,30,15,4,2016-17,912043
+Chevrolet Cruze,2,car4d,49,4door,24-75,35,13,5,2017,351592
+Tovota Corolla,2,car4d,54,4door,27-81,40,15,3,2015-17,309773
+Subaru WRX,2,car4d,54,4door,25-83,31,24,4,2014-17,196935
+Nissan Juke 4WD,2,car4d,65,4door,2-127,22,48,0,2014-17,115704
+Ford Focus,2,car4d,68,4door,52-84,48,19,9,2014-17,1329370
+Nissan Sentra,2,car4d,81,4door,65-96,53,26,11,2014-17,1950927
+Nissan Versa,2,car4d,88,4door,66-111,49,42,14,2017,828218
+Hyundai Elantra,2,car4d,89,4door,44-133,71,15,9,2014-17,267872
+Kia Forte,2,car4d,89,4door,64-114,63,24,2,2014-17,778579
+Chevrolet Sonic,2,car4d,98,4door,64-132,64,34,10,2015-17,418163
+Subaru Legacy,3,car4d,14,4door,3-25,9,5,2,2014-17,329025
+Ford Fusion plug-in hybrid,3,car4d,15,4door,0-36,0,15,0,2014-17,100620
+Ford Fusion 4WD,3,car4d,22,4door,0-45,11,11,0,2014-17,135342
+Ford Fusion hybrid 2WD,3,car4d,34,4door,10-58,28,5,6,2014-17,294573
+Tovota Camry,3,car4d,34,4door,28-41,23,11,4,2014-17,3622339
+Honda Accord,3,car4d,34,4door,26-41,24,9,3,2016-17,3203032
+Kia Optima,3,car4d,37,4door,15-58,15,23,10,2014-17,302125
+Ford Fusion 2WD,3,car4d,39,4door,30-49,29,10,3,2014-17,2181340
+Toyota Camry hybrid,3,car4d,41,4door,16-66,35,5,0,2014-17,298667
+Mazda 6 2WD,3,car4d,41,4door,22-61,24,18,4,2015-17,569238
+Hyundai Sonata,3,car4d,48,4door,34-62,25,23,8,2015-17,1151787
+Chrysler 200 2WD,3,car4d,52,4door,34-69,21,32,3,2014-17,784265
+Volkswagen Jetta,3,car4d,53,4door,38-67,34,19,4,2014-17,1298283
+Nissan Altima,3,car4d,59,4door,49-68,37,21,5,2016-17,3228915
+Chevrolet Malibu,3,car4d,61,4door,34-87,36,24,13,2014-17,479411
+Buick Verano,3,car4d,68,4door,34-102,35,33,14,2016-17,332522
+Nissan Maxima,3,car4d,68,4door,27-109,,,,,226899
+Chrysler 300 4WD,4,car4d,14,4door,0-31,10,5,0,2014-17,158207
+Dodge Charger 4WD,4,car4d,28,4door,0-56,14,14,0,2014-17,107515
+Chrysler 300 2WD,4,car4d,46,4door,24-69,32,14,7,2014-17,337115
+Buick Regal 2WD,4,car4d,50,4door,14-86,24,29,24,2014-17,161880
+Chevrolet Impala,4,car4d,57,4door,39-75,39,16,9,2014-17,905014
+Dodge Charger Hemi 2WD,4,car4d,58,4door,21-95,17,43,8,2014-17,199434
+Dodge Charger 2WD,4,car4d,62,4door,41-84,27,39,13,2014-17,607436
+MINI Cooper,1,car2d,10,,0-24,10,0,0,2014-17,149663
+Fiat 500,1,car2d,95,,25-165,60,38,37,2014-17,123127
+Volkswagen Beetle,2,car2d,11,,0-28,6,6,6,2014-17,132929
+Hvundai Veloster,2,car2d,63,,10-116,39,25,19,2014-17,123455
+Honda Accord,3,car2d,48,,14-82,18,30,0,2014-17,235384
+Dodge Challenger 2WD,4,car2d,65,,42-87,34,30,12,2014-17,521293
+Ford Mustang coupe,3,car_sports,45,,20-70,42,3,0,2015-17,279661
+Chevrolet Corvette coupe,3,car_sports,54,,20-87,4,53,13,2014-17,192396
+Ford Mustang GT coupe,3,car_sports,81,,43-119,58,23,12,2015-17,202978
+Chevrolet Camaro coupe,4,car_sports,39,,10-69,6,35,18,2016-17,134504
+Mercedes-Benz C-Class sedan 4WD,3,car_lux,0,,0-15,0,0,0,,254085
+Lexus CT 200h,3,car_lux,6,,0-19,6,0,0,,118081
+Acura TLX 2WD,3,car_lux,21,,0-42,13,10,0,,240896
+Mercedes-Benz C-Class sedan 2WD,3,car_lux,28,,0-56,10,17,9,,179762
+Cadillac ATS 2WD,3,car_lux,31,,6-56,21,11,6,,146586
+Infiniti Q50 4WD BMW 320i 2WD,3,car_lux,39,,8-70,0,39,11,,218675
+BMW 320i 2WD,3,car_lux,42,,4-80,17,29,0,,137322
+Lincoln MKZ 2WD,3,car_lux,55,,5-106,32,25,6,,126721
+Infiniti 050 2WD,3,car_lux,60,,31-90,18,44,19,,213505
+Audi A6 4WD,4,car_lux,16,,0-33,4,13,9,,184986
+Cadillac XTS 2WD,5,car_lux,21,,0-41,21,0,0,,147596
+Honda Fit,1,wagon,48,,23-73,31,17,4,,412993
+Ford Fiesta,1,wagon,65,,33-97,58,5,0,,289093
+Hyundai Accent,1,wagon,81,,41-121,64,17,9,,184081
+Subaru XV Crosstrek,2,wagon,18,,7-28,10,8,2,,769213
+Toyota Prius v,2,wagon,19,,3-34,19,0,0,,244190
+Fiat 500L,2,wagon,24,,0-62,24,0,0,,112469
+Ford C-Max hybrid,2,wagon,37,,0-78,37,0,0,,115963
+Ford Focus,2,wagon,60,,42-78,34,26,6,,841734
+Kia Soul,2,wagon,70,,52-87,50,19,10,,1346860
+Chevrolet Sonic,2,wagon,74,,36-111,59,13,13,,244549
+Nissan Versa Note,2,wagon,96,,65-127,80,12,7,,600256
+Subaru Outback,3,wagon,3,,0-6,2,1,0,,769921
+Toyota Sienna 4WD,5,minivan,7,,0-18,4,4,0,,206725
+Honda Odvssev,5,minivan,8,,2-14,4,5,2,,1289578
+Tovota Sienna 2WD,5,minivan,20,,10-31,16,4,2,,1067897
+Kia Sedona,5,minivan,21,,4-38,7,14,11,,215030
+Chrysler Pacifica,5,minivan,27,,0-58,21,5,0,,156682
+Dodge Grand Caravan,5,minivan,41,,28-54,26,15,5,,1226909
+Mitsubishi Outlander 4WD,2,suv,7,,0-22,7,0,0,,101350
+Honda HR-V 4WD,2,suv,9,,0-21,0,9,5,,177447
+Tovota RAV4 4WD,2,suv,10,,0-30,10,0,0,,197926
+Nissan Rogue 4WD,2,suv,13,,7-20,9,5,3,,1202111
+Jeep Renegade 2WD,2,suv,13,,0-27,8,4,0,,180718
+Subaru Forester,2,suv,17,,10-24,9,9,2,,1477741
+Hyundai Tucson 4WD,2,suv,18,,0-47,12,5,0,,148722
+Honda CR-V 2WD,2,suv,18,,0-54,18,0,0,,110439
+Ford Escape 4WD,2,suv,24,,15-33,16,7,4,,1351272
+Volkswagen Tiguan 2WD,2,suv,24,,3-46,10,15,5,,156404
+Honda CR-V 4WD,2,suv,25,,0-50,20,4,0,,202094
+Jeep Renegade 4WD,2,suv,26,,4-48,22,2,2,,341425
+Toyota RAV4 2WD,2,suv,28,,0-59,28,0,0,,153216
+Volkswagen Tiguan 4WD,2,suv,29,,0-62,16,16,0,,145607
+Ford Escape 2WD,2,suv,29,,20-38,22,6,2,,1768510
+Jeep Patriot 4WD,2,suv,36,,18-54,24,12,2,,503880
+Jeep Compass 4WD,2,suv,40,,15-64,21,20,8,,401789
+Mitsubishi Outlander Sport 2WD,2,suv,43,,9-77,32,12,12,,197002
+Chevrolet Trax 4WD,2,suv,45,,2-88,15,33,0,,166173
+Jeep Wrangler 2-door 4WD,2,suv,46,,25-68,23,23,20,,438061
+Honda HR-V 2WD,2,suv,50,,4-95,36,11,6,,140934
+Nissan Roque 2WD,2,suv,51,,32-70,38,11,1,,891138
+Jeep Compass 2WD,2,suv,55,,25-85,40,15,0,,321269
+Mitsubishi Outlander 2WD,2,suv,55,,5-104,31,22,15,,105863
+Jeep Patriot 2WD,2,suv,60,,35-85,49,8,5,,618728
+Hyundai Tucson 2WD,2,suv,61,,18-103,37,21,9,,185863
+Mitsubishi Outlander Sport 4WD,2,suv,67,,12-122,45,21,5,,152405
+Chevrolet Trax 2WD,2,suv,73,,32-114,,,,,233527
+Honda Pilot 4WD,3,suv,11,,0-27,11,0,0,2016-17,354126
+Kia Sorento 4WD,3,suv,12,,0-25,4,8,8,2016-17,192211
+Toyota 4Runner 4WD,3,suv,13,,1-25,4,11,7,2014-17,667774
+Toyota Highlander 4WD,3,suv,13,,0-30,0,13,0,2017,120591
+Ford Explorer 4WD,3,suv,13,,2-24,10,3,1,2016-17,604755
+Hyundai Santa Fe 4WD,3,suv,13,,0-31,0,13,7,2014-17,116678
+Jeep Grand Cherokee 4WD,3,suv,16,,10-23,11,6,3,2014-17,1901695
+Hyundai Santa Fe 2WD,3,suv,16,,0-47,0,16,0,2014-17,126743
+Honda Pilot 2WD,3,suv,17,,0-43,5,15,14,2016-17,161750
+Jeep Grand Cherokee 2WD,3,suv,17,,3-31,11,5,0,2014-17,465291
+GMC Terrain 4WD,3,suv,18,,6-31,12,6,4,2014-17,369005
+Nissan Murano 4WD,3,suv,19,,0-42,19,0,0,2015-17,251049
+Nissan Murano 2WD,3,suv,19,,0-43,19,0,0,2015-17,184170
+Nissan Pathfinder 4WD,3,suv,20,,3-37,7,14,12,2014-17,450004
+Ford Edge 4WD,3,suv,20,,6-33,10,11,5,2015-17,445718
+Jeep Cherokee 4WD,3,suv,20,,10-30,12,7,2,2014-17,1233091
+Ford Edge 2WD,3,suv,21,,2-41,11,12,0,2015-17,269325
+Dodge Journey 4WD,3,suv,23,,2-44,20,3,0,2014-17,247043
+Nissan Pathfinder 2WD,3,suv,25,,5-45,20,4,2,2014-17,386988
+Jeep Cherokee 2WD,3,suv,26,,12-41,19,8,1,2014-17,601120
+Chevrolet Equinox 4WD,3,suv,29,,15-43,20,9,2,2014-17,795787
+Jeep Wrangler 4-door 4WD,3,suv,31,,21-41,15,17,10,2014-17,1480243
+Kia Sorento 2WD,3,suv,32,,5-58,12,22,0,2016-17,244783
+GMC Terrain 2WD,3,suv,33,,16-51,22,10,1,2014-17,595721
+Ford Explorer 2WD,3,suv,33,,8-58,21,11,6,2016-17,279681
+Toyota 4Runner 2WD,3,suv,34,,0-67,23,10,0,2014-17,235145
+Ford Flex 2WD,3,suv,38,,0-75,38,0,0,2014-17,166244
+Hyundai Santa Fe Sport 4WD,3,suv,39,,8-69,9,35,15,2014-17,296306
+Chevrolet Equinox 2WD,3,suv,45,,33-57,32,12,6,2014-17,1523947
+Dodge Journey 2WD,3,suv,45,,25-65,26,19,12,2014-17,728704
+Hyundai Santa Fe Sport 2WD,3,suv,51,,24-78,26,26,15,2014-17,421969
+Dodge Durango 2WD,4,suv,11,,0-28,7,3,3,2014-17,248854
+Dodge Durango 4WD,4,suv,15,,0-30,2,15,9,2014-17,414697
+Ford Expedition 4WD,4,suv,17,,0-36,6,11,6,2014-17,137374
+Chevrolet Tahoe 4WD,4,suv,19,,3-35,12,6,4,2015-17,412450
+Buick Enclave 2WD,4,suv,20,,2-38,15,4,2,2014-17,349535
+Buick Enclave 4WD,4,suv,24,,0-49,24,0,0,2014-17,254700
+GMC Yukon 4WD,4,suv,27,,0-53,14,14,13,2015-17,232618
+Chevrolet Traverse 2WD,4,suv,27,,11-44,16,11,3,2014-17,636416
+Chevrolet Tahoe 2WD,4,suv,28,,5-51,13,17,7,2015-17,322663
+Chevrolet Traverse 4WD,4,suv,29,,9-49,19,9,2,2014-17,435946
+GMC Yukon 2WD,4,suv,40,,0-88,0,40,26,2015-17,119156
+Ford Expedition 2WD,4,suv,55,,5-104,24,29,15,2014-17,105353
+GMC Yukon XL 1500 4WD,5,suv,0,,0-20,0,0,0,2015-17,186403
+Chevrolet Suburban 1500 4WD,5,suv,8,,0-18,8,0,0,2015-17,278088
+Ford Expedition EL 4WD,5,suv,16,,0-47,16,0,0,2014-17,126577
+Chevrolet Suburban 1500 2WD,5,suv,25,,0-57,0,25,0,2015-17,141444
+Land Rover Range Rover Evoque 4WD,2,luxsuv,0,,0-35,0,0,0,2014-17,104037
+Buick Encore 4WD,2,luxsuv,44,,9-79,10,39,24,2014-17,221553
+Buick Encore 2WD,2,luxsuv,46,,20-72,34,11,7,2014-17,423729
+Lexus NX 200t 4WD,3,luxsuv,0,,0-28,0,0,0,2015-17,133129
+Infiniti QX60 2WD,3,luxsuv,0,,0-26,0,0,0,2014-17,144301
+BMW X5 4WD,3,luxsuv,4,,0-11,2,2,0,2014-17,348071
+Acura RDX 2WD,3,luxsuv,4,,0-12,4,0,0,2014-17,189668
+BMW X3 4WD,3,luxsuv,5,,0-11,0,5,5,2014-17,334302
+Infiniti QX60 4WD,3,luxsuv,9,,0-20,0,9,3,2014-17,243080
+Audi Q5 4WD,3,luxsuv,12,,0-24,4,8,4,2014-17,412963
+Acura RDX 4WD,3,luxsuv,12,,0-27,12,0,0,2014-17,293285
+Lexus NX 200t 2WD,3,luxsuv,15,,0-46,0,15,0,2015-17,130217
+Volvo XC60 4WD,3,luxsuv,29,,0-66,0,29,25,2014-17,122100
