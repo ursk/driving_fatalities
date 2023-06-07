@@ -1,4 +1,4 @@
 # Driving Fatalities
-This is the code to go along with the article published [here](https://colindcarroll.com/2017/12/07/does-this-convince-you-that-self-driving-cars-are-safe/)
+Partial Pooling model to reanalyze the fatality data provided by the IIHS [here](https://www.iihs.org/api/datastoredocument/status-report/pdf/55/2))
 
-Using `conda`, and python 3.6, installation should work with `conda install pymc3 pandas seaborn jupyter`.
+Using pymc 5, which is available in [colab](colab.research.google.com).
