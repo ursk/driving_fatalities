@@ -62,7 +62,7 @@ Lexus CT 200h,3,car_lux,6,,0-19,6,0,0,,118081
 Acura TLX 2WD,3,car_lux,21,,0-42,13,10,0,,240896
 Mercedes-Benz C-Class sedan 2WD,3,car_lux,28,,0-56,10,17,9,,179762
 Cadillac ATS 2WD,3,car_lux,31,,6-56,21,11,6,,146586
-Infiniti Q50 4WD BMW 320i 2WD,3,car_lux,39,,8-70,0,39,11,,218675
+Infiniti Q50 4WD,3,car_lux,39,,8-70,0,39,11,,218675
 BMW 320i 2WD,3,car_lux,42,,4-80,17,29,0,,137322
 Lincoln MKZ 2WD,3,car_lux,55,,5-106,32,25,6,,126721
 Infiniti 050 2WD,3,car_lux,60,,31-90,18,44,19,,213505
@@ -82,13 +82,13 @@ Nissan Versa Note,2,wagon,96,,65-127,80,12,7,,600256
 Subaru Outback,3,wagon,3,,0-6,2,1,0,,769921
 Toyota Sienna 4WD,5,minivan,7,,0-18,4,4,0,,206725
 Honda Odvssev,5,minivan,8,,2-14,4,5,2,,1289578
-Tovota Sienna 2WD,5,minivan,20,,10-31,16,4,2,,1067897
+Toyota Sienna 2WD,5,minivan,20,,10-31,16,4,2,,1067897
 Kia Sedona,5,minivan,21,,4-38,7,14,11,,215030
 Chrysler Pacifica,5,minivan,27,,0-58,21,5,0,,156682
 Dodge Grand Caravan,5,minivan,41,,28-54,26,15,5,,1226909
 Mitsubishi Outlander 4WD,2,suv,7,,0-22,7,0,0,,101350
 Honda HR-V 4WD,2,suv,9,,0-21,0,9,5,,177447
-Tovota RAV4 4WD,2,suv,10,,0-30,10,0,0,,197926
+Toyota RAV4 4WD,2,suv,10,,0-30,10,0,0,,197926
 Nissan Rogue 4WD,2,suv,13,,7-20,9,5,3,,1202111
 Jeep Renegade 2WD,2,suv,13,,0-27,8,4,0,,180718
 Subaru Forester,2,suv,17,,10-24,9,9,2,,1477741
